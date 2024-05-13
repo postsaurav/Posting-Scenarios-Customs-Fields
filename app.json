@@ -1,8 +1,8 @@
 {
   "id": "2845fcc3-0cb1-46ed-8ea4-4f135262f9f2",
-  "name": "Sales Document Customs",
+  "name": "Posting Scenario Custom Fields",
   "publisher": "Saurav Dhyani",
-  "brief": "This repo will have Code related to Sales Document Customization.",
+  "brief": "This repo will have Code related to Custom Fields during Posting Documents.",
   "description": "",
   "version": "21.0.0.0",
   "runtime": "10.0",
